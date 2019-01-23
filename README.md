@@ -5,7 +5,7 @@ Module for reading data from Digital Multimeter Metex ME-31 via RS-232
 ## Install
 
 ```bash
-pip install pyme31
+pip install pyme31-gamgee
 ```
 
 ## Usage
