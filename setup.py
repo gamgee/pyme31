@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyme31-gamgee",
-    version="1.0.2",
+    version="1.0.3",
     author="Johannes Müller",
     author_email="mail@gamgee.de",
     description="Reads data from Digital Multimeter Metex ME-31 via serial port",
