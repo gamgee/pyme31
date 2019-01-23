@@ -1,0 +1,9 @@
+.vscode
+Include
+Lib
+Scripts
+tcl
+build
+dist
+*.egg-info
+pyme31/__pycache__
